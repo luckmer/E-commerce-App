@@ -9,6 +9,8 @@ images : unsplash.com# E-commerce-Shop
 #
 ![](https://imgur.com/eVH4IWf.png)
 #
+![](https://imgur.com/KKvd9uF.png)
+#
 ![](https://imgur.com/X7VoSVA.png)
 #
 ![](https://imgur.com/RWLjaDI.png)
@@ -18,7 +20,7 @@ images : unsplash.com# E-commerce-Shop
 ![](https://imgur.com/Xzbgq7B.png)
 #
 ![](https://imgur.com/zDh7i7F.png)
-#
+# mobile
 ![](https://imgur.com/3w7VNBc.png)
 #
 ![](https://imgur.com/BND54D2.png)
@@ -28,4 +30,5 @@ images : unsplash.com# E-commerce-Shop
 ![](https://imgur.com/YmgGdxI.png)
 #
 ![](https://imgur.com/ZS8RLEY.png)
-
+#
+![](https://imgur.com/4F8BcqZ.png)
